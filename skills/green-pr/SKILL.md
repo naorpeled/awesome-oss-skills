@@ -15,7 +15,8 @@ human review thread addressed.
 ## Primary inputs
 
 - the pull request's diff, commits, and description
-- automated code review comments (e.g. Qodo, Copilot code review, CodeQL)
+- automated code review comments (e.g. Qodo, Copilot code review, CodeQL,
+  Baz, CodeRabbit, Greptile, BugBot)
 - CI check runs and their logs (unit tests, lint, type checks, mutation
   testing, platform-specific test jobs)
 - human reviewer comments and review threads
@@ -25,8 +26,9 @@ human review thread addressed.
 
 ### 1. Resolve AI code review comments
 
-1. Collect every open comment from automated reviewers (bots such as Qodo or
-   Copilot code review, and static analysis like CodeQL).
+1. Collect every open comment from automated reviewers (bots such as Qodo,
+   Copilot code review, Baz, CodeRabbit, Greptile, or BugBot, and static
+   analysis like CodeQL).
 2. For each finding, verify it against the actual code before acting — AI
    review comments can be stale, duplicated, or based on a misunderstanding.
 3. Apply a fix for genuine issues. If a finding is a false positive, leave it
