@@ -19,6 +19,7 @@ improvements.
 - `CONTRIBUTING.md`
 - `DEVELOPER.md` or `docs/development.md`
 - labels, governance docs, and repository conventions
+- `AGENTS.md`/`CLAUDE.md` and output from automated review bots
 
 ## Instructions
 
@@ -32,6 +33,8 @@ improvements.
    rules.
 4. Check whether contributor-facing docs still match actual repository
    behavior.
+5. Weigh findings from automated code review or compliance bots against the
+   actual code before asking a contributor to act on them.
 
 ### One-off improvements
 
@@ -46,6 +49,8 @@ improvements.
   just code review.
 - Encourage beginner-friendly issue labeling where appropriate.
 - Surface missing onboarding details that slow down first-time contributors.
+- Give specific, actionable feedback in a friendly tone, and invite the
+  contributor's input on open design questions rather than dictating them.
 
 ## Output format
 

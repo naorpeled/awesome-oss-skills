@@ -28,6 +28,9 @@ npx skills add naorpeled/awesome-oss-skills
 - `maintainer-triage-and-review`
   - Support issue triage, PR review, documentation drift checks, and
     contributor-onboarding audits.
+- `maintainer-ci-and-release-health`
+  - Audit cross-platform CI coverage, release automation, distribution
+    channel consistency, and agent-instruction files.
 
 ## Repository structure
 
