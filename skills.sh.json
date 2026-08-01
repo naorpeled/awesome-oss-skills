@@ -1,0 +1,21 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Contributors",
+      "description": "Skills for onboarding new open source contributors and helping them make well-scoped first contributions.",
+      "skills": [
+        "repository-onboarding",
+        "local-development-bootstrap",
+        "first-oss-contribution"
+      ]
+    },
+    {
+      "title": "Maintainers",
+      "description": "Skills for recurring repository health work including triage, review, onboarding audits, and documentation upkeep.",
+      "skills": [
+        "maintainer-triage-and-review"
+      ]
+    }
+  ]
+}
