@@ -15,7 +15,8 @@
       "description": "Skills for recurring repository health work including triage, review, onboarding audits, and documentation upkeep.",
       "skills": [
         "maintainer-triage-and-review",
-        "maintainer-ci-and-release-health"
+        "maintainer-ci-and-release-health",
+        "project-bootstrap"
       ]
     },
     {

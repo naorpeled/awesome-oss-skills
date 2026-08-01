@@ -32,6 +32,9 @@ npx skills add naorpeled/awesome-oss-skills
 - `maintainer-ci-and-release-health`
   - Audit cross-platform CI coverage, release automation, distribution
     channel consistency, and agent-instruction files.
+- `project-bootstrap`
+  - Bootstrap a new project: choose a license, scaffold baseline docs and
+    CI, and flag follow-up repository health work.
 
 ### Pull request workflows
 
