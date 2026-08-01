@@ -20,8 +20,9 @@ npx skills add naorpeled/awesome-oss-skills
 - `local-development-bootstrap`
   - Extract setup, build, test, and lint steps from docs and config files.
 - `first-oss-contribution`
-  - Help a contributor pick a small first change, understand the workflow, and
-    prepare a pull request.
+  - Help a contributor find a project via discovery sources like
+    up-for-grabs.net or CodeTriage when they don't have one yet, then pick a
+    small first change, understand the workflow, and prepare a pull request.
 
 ### Maintainers
 

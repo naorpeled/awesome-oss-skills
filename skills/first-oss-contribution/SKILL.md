@@ -14,12 +14,37 @@ successful first pull request.
 ## Primary inputs
 
 - issue text or requested task
+- a repository/issue discovery source when no repository is chosen yet
+  (e.g. up-for-grabs.net, goodfirstissues.com, goodfirstissue.dev,
+  CodeTriage, or firstcontributions/first-contributions)
 - `README.md`
 - `CONTRIBUTING.md`
 - relevant code or docs files
 - issue labels, issue templates, and pull request templates
 
 ## Instructions
+
+### When no repository is specified yet
+
+1. If the contributor has not picked a repository or issue, help them find
+   one using well-known discovery sources instead of guessing:
+   - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions#first-contributions)
+     for a hands-on, no-stakes practice contribution
+   - [up-for-grabs.net](https://up-for-grabs.net) for projects that actively
+     want help and label issues `up-for-grabs`, `jump-in`, or `help wanted`
+   - [goodfirstissues.com](https://goodfirstissues.com) for the latest issues
+     labeled `good first issue`
+   - [goodfirstissue.dev](https://goodfirstissue.dev/) for curated easy
+     issues from popular projects
+   - [CodeTriage](https://www.codetriage.com/) to subscribe to a project and
+     receive a new open issue to work on regularly
+2. Match the source to the contributor's goal: use `first-contributions` for
+   a pure workflow-learning exercise, and the aggregator sites/CodeTriage when
+   they want a real issue in a project they may keep contributing to.
+3. Once a candidate repository or issue is chosen, continue with the steps
+   below.
+
+### With a repository and issue in hand
 
 1. Find the smallest acceptable change that matches the repository's workflow.
 2. Prefer starter-friendly work such as:
