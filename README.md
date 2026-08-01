@@ -73,3 +73,7 @@ Each skill in this repository should:
   - look for documentation and `good first issue` style work
   - read project norms before making changes
   - communicate clearly and respond to review feedback
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
