@@ -52,6 +52,11 @@ skills CLI:
 - `skills.sh.json` — grouping metadata for skills catalogs
 - `README.md` — package overview and installation instructions
 
+## Contributing
+
+New to this repository? See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to
+add or update a skill and what a pull request should include.
+
 ## Skill design goals
 
 Each skill in this repository should:
