@@ -32,6 +32,13 @@ npx skills add naorpeled/awesome-oss-skills
   - Audit cross-platform CI coverage, release automation, distribution
     channel consistency, and agent-instruction files.
 
+### Pull request workflows
+
+- `green-pr`
+  - Resolve AI code review comments, fix failing CI checks, and address
+    human review feedback with user-approved replies until a PR is
+    mergeable.
+
 ## Repository structure
 
 This repository follows the Agent Skills package layout used by the Vercel

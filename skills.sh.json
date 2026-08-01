@@ -17,6 +17,13 @@
         "maintainer-triage-and-review",
         "maintainer-ci-and-release-health"
       ]
+    },
+    {
+      "title": "Pull request workflows",
+      "description": "Skills for driving an open pull request from any author to a mergeable, all-green state.",
+      "skills": [
+        "green-pr"
+      ]
     }
   ]
 }
