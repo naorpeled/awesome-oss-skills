@@ -1,6 +1,10 @@
 ---
 name: maintainer-ci-and-release-health
-description: Help maintainers keep CI, release automation, and distribution channels healthy and consistent across a repository's workflows, packaging manifests, and agent-instruction files. Use when a maintainer needs to audit or improve CI coverage, releases, or multi-channel distribution.
+description: >-
+  Help maintainers keep CI, release automation, and distribution channels
+  healthy and consistent across a repository's workflows, packaging manifests,
+  and agent-instruction files. Use when a maintainer needs to audit or improve
+  CI coverage, releases, or multi-channel distribution.
 metadata:
   author: naorpeled
   version: "1.0.0"

@@ -1,6 +1,10 @@
 ---
 name: maintainer-triage-and-review
-description: Support maintainers with issue triage, pull request review, onboarding audits, and documentation upkeep using the repository's templates, docs, and conventions. Use when a maintainer needs recurring or one-off repository health help.
+description: >-
+  Support maintainers with issue triage, pull request review, onboarding
+  audits, and documentation upkeep using the repository's templates, docs, and
+  conventions. Use when a maintainer needs recurring or one-off repository
+  health help.
 metadata:
   author: naorpeled
   version: "1.0.0"

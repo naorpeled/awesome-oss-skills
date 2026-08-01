@@ -36,7 +36,10 @@ below).
 - Every `SKILL.md` uses YAML frontmatter with `name`, `description`, and
   `metadata` (`author`, `version`), followed by these sections in order:
   `## Primary inputs`, `## Instructions`, `## Recommendations to apply`,
-  `## Output format`.
+  `## Output format`. Write `description` as a folded block scalar
+  (`description: >-`) wrapped to roughly 80 columns rather than a single
+  long line, so the frontmatter matches the wrapping rule while still
+  parsing as one string.
 - Keep skill names kebab-case and matching their directory name.
 
 ## Consistency checks

@@ -1,6 +1,10 @@
 ---
 name: green-pr
-description: Drive an open pull request to a mergeable, "all green" state by resolving AI code review comments, fixing failing CI checks, and addressing human review feedback. Use when a contributor or maintainer wants a PR's checks and review threads cleared before merge.
+description: >-
+  Drive an open pull request to a mergeable, "all green" state by resolving AI
+  code review comments, fixing failing CI checks, and addressing human review
+  feedback. Use when a contributor or maintainer wants a PR's checks and
+  review threads cleared before merge.
 metadata:
   author: naorpeled
   version: "1.0.0"

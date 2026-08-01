@@ -1,6 +1,9 @@
 ---
 name: first-oss-contribution
-description: Help a contributor prepare a small first open source contribution using the repository's docs, issue labels, and contribution workflow. Use when a user wants to make a safe, well-scoped first pull request.
+description: >-
+  Help a contributor prepare a small first open source contribution using the
+  repository's docs, issue labels, and contribution workflow. Use when a user
+  wants to make a safe, well-scoped first pull request.
 metadata:
   author: naorpeled
   version: "1.0.0"

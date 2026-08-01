@@ -1,6 +1,9 @@
 ---
 name: local-development-bootstrap
-description: Extract local setup, build, test, and lint instructions from repository docs and configuration files. Use when a contributor wants to run a project locally or verify that setup guidance is complete.
+description: >-
+  Extract local setup, build, test, and lint instructions from repository docs
+  and configuration files. Use when a contributor wants to run a project
+  locally or verify that setup guidance is complete.
 metadata:
   author: naorpeled
   version: "1.0.0"

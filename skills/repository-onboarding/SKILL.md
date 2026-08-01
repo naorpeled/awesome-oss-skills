@@ -1,6 +1,9 @@
 ---
 name: repository-onboarding
-description: Onboard a contributor to an open source repository using the project's README, contribution docs, templates, and policy files. Use when a user wants to understand how a repository works before contributing.
+description: >-
+  Onboard a contributor to an open source repository using the project's
+  README, contribution docs, templates, and policy files. Use when a user
+  wants to understand how a repository works before contributing.
 metadata:
   author: naorpeled
   version: "1.0.0"

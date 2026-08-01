@@ -1,6 +1,10 @@
 ---
 name: project-bootstrap
-description: Bootstrap a brand-new open source project, including choosing a license, scaffolding baseline docs and configuration, and setting up initial repository health files. Use when a user wants to start a new repository from scratch.
+description: >-
+  Bootstrap a brand-new open source project, including choosing a license,
+  scaffolding baseline docs and configuration, and setting up initial
+  repository health files. Use when a user wants to start a new repository
+  from scratch.
 metadata:
   author: naorpeled
   version: "1.0.0"

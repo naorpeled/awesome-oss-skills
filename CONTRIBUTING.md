@@ -27,7 +27,8 @@ fixes are all welcome.
    case), containing a single `SKILL.md` file.
 2. Follow the shape used by existing skills:
    - YAML frontmatter with `name`, `description`, and `metadata` (`author`,
-     `version`)
+     `version`); write `description` as a folded block scalar
+     (`description: >-`) wrapped to roughly 80 columns, not one long line
    - a short intro describing when to use the skill
    - `## Primary inputs` — the repo files or context the skill reads
    - `## Instructions` — the concrete steps the skill follows
