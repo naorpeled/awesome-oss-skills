@@ -55,7 +55,9 @@ skills CLI:
 ## Contributing
 
 New to this repository? See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to
-add or update a skill and what a pull request should include.
+add or update a skill and what a pull request should include. Agent-facing
+maintenance instructions live in [`AGENTS.md`](AGENTS.md) (`CLAUDE.md` is a
+symlink to the same file).
 
 ## Skill design goals
 
