@@ -59,21 +59,6 @@ add or update a skill and what a pull request should include. Agent-facing
 maintenance instructions live in [`AGENTS.md`](AGENTS.md) (`CLAUDE.md` is a
 symlink to the same file).
 
-## Skill design goals
-
-Each skill in this repository should:
-
-- start from common repository artifacts such as `README.md`,
-  `CONTRIBUTING.md`, developer docs, templates, and policy files
-- help either contributors or maintainers complete a concrete task
-- support both one-off tasks and ongoing repository workflows
-- reduce onboarding friction for new developers
-- incorporate open source contribution guidance such as:
-  - start small
-  - look for documentation and `good first issue` style work
-  - read project norms before making changes
-  - communicate clearly and respond to review feedback
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

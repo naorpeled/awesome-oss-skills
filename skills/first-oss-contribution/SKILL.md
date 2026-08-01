@@ -20,7 +20,7 @@ successful first pull request.
 - a repository/issue discovery source when no repository is chosen yet
   (e.g. the [goodfirstissues data
   feed](https://github.com/iedr/goodfirstissues/blob/master/backend/data.json),
-  up-for-grabs.net, goodfirstissues.com, goodfirstissue.dev, CodeTriage, or
+  up-for-grabs.net, goodfirstissue.dev, CodeTriage, or
   firstcontributions/first-contributions)
 - `README.md`
 - `CONTRIBUTING.md`
@@ -52,8 +52,6 @@ successful first pull request.
      for a hands-on, no-stakes practice contribution
    - [up-for-grabs.net](https://up-for-grabs.net) for projects that actively
      want help and label issues `up-for-grabs`, `jump-in`, or `help wanted`
-   - [goodfirstissues.com](https://goodfirstissues.com) for the latest issues
-     labeled `good first issue`
    - [goodfirstissue.dev](https://goodfirstissue.dev/) for curated easy
      issues from popular projects
    - [CodeTriage](https://www.codetriage.com/) to subscribe to a project and
