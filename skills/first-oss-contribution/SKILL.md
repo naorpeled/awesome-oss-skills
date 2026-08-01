@@ -15,8 +15,10 @@ successful first pull request.
 
 - issue text or requested task
 - a repository/issue discovery source when no repository is chosen yet
-  (e.g. up-for-grabs.net, goodfirstissues.com, goodfirstissue.dev,
-  CodeTriage, or firstcontributions/first-contributions)
+  (e.g. the [goodfirstissues data
+  feed](https://github.com/iedr/goodfirstissues/blob/master/backend/data.json),
+  up-for-grabs.net, goodfirstissues.com, goodfirstissue.dev, CodeTriage, or
+  firstcontributions/first-contributions)
 - `README.md`
 - `CONTRIBUTING.md`
 - relevant code or docs files
@@ -39,6 +41,10 @@ successful first pull request.
 
 1. If the contributor has not picked a repository or issue, help them find
    one using well-known discovery sources instead of guessing:
+   - [goodfirstissues data
+     feed](https://github.com/iedr/goodfirstissues/blob/master/backend/data.json)
+     as the first stop — a frequently updated, scraped dataset of live
+     `good first issue`-labeled issues across many projects
    - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions#first-contributions)
      for a hands-on, no-stakes practice contribution
    - [up-for-grabs.net](https://up-for-grabs.net) for projects that actively
@@ -49,9 +55,11 @@ successful first pull request.
      issues from popular projects
    - [CodeTriage](https://www.codetriage.com/) to subscribe to a project and
      receive a new open issue to work on regularly
-2. Match the source to the contributor's goal: use `first-contributions` for
-   a pure workflow-learning exercise, and the aggregator sites/CodeTriage when
-   they want a real issue in a project they may keep contributing to.
+2. Match the source to the contributor's goal: prefer the goodfirstissues
+   data feed when they want a real, currently open issue to pick from right
+   now, use `first-contributions` for a pure workflow-learning exercise, and
+   the other aggregator sites/CodeTriage when they want a real issue in a
+   project they may keep contributing to.
 3. Once a candidate repository or issue is chosen, continue with the steps
    below.
 
