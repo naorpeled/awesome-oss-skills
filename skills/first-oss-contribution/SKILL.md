@@ -24,6 +24,17 @@ successful first pull request.
 
 ## Instructions
 
+### Confirm which repository to use
+
+1. Check whether the current working context is already inside a cloned
+   repository (e.g. a `.git` directory is present).
+2. If it is, do not assume that repository is the target. Ask the
+   contributor whether they want to work in the current repository or a
+   different one before doing any deeper investigation.
+3. If they confirm the current repository, gather context directly from it
+   (skip discovery sources below). Otherwise, or if there is no repository
+   present at all, continue with the discovery step below.
+
 ### When no repository is specified yet
 
 1. If the contributor has not picked a repository or issue, help them find
